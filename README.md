@@ -1,12 +1,26 @@
-# Passion Thoughts
+# Passion
 
-Author = Yuva Kishore
+Passion is a visually engaging webpage built using HTML and CSS to showcase thoughts, inspirations, and reflections on passion. The website features a full-screen background video that enhances the user experience, creating an immersive and motivating atmosphere.
 
-Licence = The above information is public for all
+## Features
+Inspiring thoughts and reflections on passion
 
-**Project Description**
-This is a website built using video motion. 
+Full-screen background video for an engaging visual experience
 
-To get more hands on with web development and explore something new
+Minimalist and elegant design with smooth CSS transitions
 
-source of website: https://passionthoughts.netlify.app/
+Responsive layout for optimal viewing on all devices
+
+Lightweight and fast performance
+
+## Technologies Used
+HTML – Structure of the webpage
+
+CSS – Styling, animations, and responsive design
+
+## Project Website
+https://passionthoughts.netlify.app/
+
+## Screenshots
+![img1](https://github.com/user-attachments/assets/b96d716e-92a8-4412-bb9c-a8f82f4e6b71)
+
